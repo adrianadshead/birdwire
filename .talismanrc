@@ -51,4 +51,14 @@ fileignoreconfig:
   checksum: dd8663fa866d0fa2f949ce9aed230bbff42c9f26f65942d382aed29473c53b83
 - filename: build/web/canvaskit/profiling/canvaskit.js
   checksum: 0706e2f5492d1f3b69584c309166a6f1c6145d641a16111570126fc7121fd407
+- filename: docs/.last_build_id
+  checksum: 84d1d5dd124ed65e300da89e7986110c015f3850cb82de17fd7cf8fa7860aae3
+- filename: docs/flutter_service_worker.js
+  checksum: 2f793cdf93daed335e125263a461a37e516bcccd9f18cd616e4c0627bcc391bd
+- filename: docs/main.dart.js
+  checksum: fef6f3cb747fec431c50f9a0f0026ca663397689f78e06edd1c944c05835f6e9
+- filename: docs/canvaskit/canvaskit.js
+  checksum: 09d99a16f169d65bc90347729d94b1e88e82d3559ba0dc53a2868a7cc058e517
+- filename: docs/canvaskit/profiling/canvaskit.js
+  checksum: c610b99dd6e8eaf2a59e80a73c0eb497db6eaa932f577460930a21b93f508596
 version: ""
